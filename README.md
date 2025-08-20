@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 📚 I'm CS student, interested in backend development</p>
+<p align="left">- 📚 I'm CS Graduate, interested in backend development</p>
 
 ###
 
