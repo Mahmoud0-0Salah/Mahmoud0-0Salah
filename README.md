@@ -2,7 +2,7 @@
 
 <div align="left">
 
-⚡ **Computer Science Graduate** | ⚙️ **.NET Backend Developer** | 🎓 **GPA: 3.7/4.0 (Excellent)**
+⚡ **Computer Science Graduate** | ⚙️ **.NET Backend Developer**
 
 > 🔨 Building scalable backend solutions and AI-powered applications
 > 
