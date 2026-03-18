@@ -60,7 +60,6 @@ Open for technical discussions and project collaborations:
 
 - 🥇 **12th place** at university level in Upper Egypt in **ECPC qualifying competition**
 - 📜 [**SQL (Intermediate) Certificate**](https://www.hackerrank.com/certificates/706c0adbdb4a) - HackerRank
-- 👨‍🏫 **Mentor** of level 1 trainees at **ICPC ITI community**
 - 📦 Published **NuGet package** with 300+ downloads
 
 ---
