@@ -41,7 +41,7 @@ Open for technical discussions and project collaborations:
 
 > 📄 Download my full CV:
 > 
-> [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=flat&logo=googledrive&logoColor=white)](./Mahmoud%20Salah%20Mahmoud.pdf)
+> [![CV](https://drive.google.com/file/d/1cDw-pLgUaAC4VOocUoIHo8IuWXKxHIMs/view?usp=sharing)
 
 ---
 
