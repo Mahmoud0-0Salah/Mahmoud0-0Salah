@@ -41,8 +41,8 @@ Open for technical discussions and project collaborations:
 
 > 📄 Download my full CV:
 > 
-> [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=flat&logo=googledrive&logoColor=white)]
-> (https://drive.google.com/file/d/1cDw-pLgUaAC4VOocUoIHo8IuWXKxHIMs/view?usp=sharing)
+> [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cDw-pLgUaAC4VOocUoIHo8IuWXKxHIMs/view?usp=sharing)
+
 
 ---
 
