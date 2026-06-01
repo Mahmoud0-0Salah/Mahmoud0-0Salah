@@ -39,7 +39,7 @@ Open for technical discussions and project collaborations:
 
 </div>
 
-> [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=flat&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1cDw-pLgUaAC4VOocUoIHo8IuWXKxHIMs/view?usp=sharing](https://drive.google.com/file/d/1FnYISHC60MhDmeUHXBneZskV1OizeOVO/view?usp=sharing))
+> [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FnYISHC60MhDmeUHXBneZskV1OizeOVO/view?usp=sharing)
 
 
 ---
